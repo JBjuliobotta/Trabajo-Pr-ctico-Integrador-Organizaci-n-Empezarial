@@ -8,3 +8,8 @@ El sistema busca solucionar la comunicación interdepartamental de la empresa, a
 
 Julio Rafael Botta - TeamLeader/Desarrollador
 
+Se incluye diagrama BPMN del proyecto con la notación BPMN 2.0
+
+Enlace repo: https://github.com/JBjuliobotta/Trabajo-Pr-ctico-Integrador-Organizaci-n-Empezarial
+
+Enlace tablero de backlogs: https://github.com/users/JBjuliobotta/projects/1/views/1
